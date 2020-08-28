@@ -3,8 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="TestNG">
     <classes>
-      <class name="testcases.CreateContactTest"/>
-      <class name="testcases.DeleteContactTest"/>
+      <class name="testcases.mainPageTests"/>
     </classes>
   </test> <!-- TestNG -->
 </suite> <!-- Suite -->
